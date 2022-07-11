@@ -1,0 +1,1188 @@
+{
+  "classes": [ "TOURIST_PLACE", "LOC", "GPE", "TIMING" ],
+  "annotations": [
+    [
+      "The Vagbhatananda Park situated in the Karakkad village in the Kozhikode district was recently inaugurated by the state's tourism minister, Kadakampalli Surendran.\r",
+      {
+        "entities": [
+          [ 4, 22, "TOURIST_PLACE" ],
+          [ 39, 47, "LOC" ],
+          [ 63, 72, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Vanaparvam Biodiversity Park is situated in the Thamarassery forest range in Kakkavayal, Kozhikode District, the park was started as part of an eco-tourism project. \r",
+      {
+        "entities": [
+          [ 0, 28, "TOURIST_PLACE" ],
+          [ 77, 87, "LOC" ],
+          [ 89, 98, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Vanaparvam Biodiversity Park can be visited during timings 10:00 am - 05:00 pm.\r",
+      {
+        "entities": [
+          [ 0, 28, "TOURIST_PLACE" ],
+          [ 59, 78, "TIMING" ]
+        ]
+      }
+    ],
+    [
+      "Mishkal Mosque is a medieval mosque located in Calicut on Malabar Coast, southern India. \r",
+      {
+        "entities": [
+          [ 0, 14, "TOURIST_PLACE" ],
+          [ 47, 54, "GPE" ],
+          [ 82, 87, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Peruvannamuzhi dam, also known as Kuttiady Dam, is a dam built on the Kuttiady River at Peruvannamuzhi in Chakkittapara Grama Panchayath in Kozhikode district, Kerala. \r",
+      {
+        "entities": [
+          [ 0, 18, "TOURIST_PLACE" ],
+          [ 34, 46, "TOURIST_PLACE" ],
+          [ 88, 102, "LOC" ],
+          [ 106, 119, "LOC" ],
+          [ 140, 149, "GPE" ],
+          [ 160, 166, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "The timings for Peruvannamuzhi Dam are 10AM to 5PM.\r",
+      {
+        "entities": [
+          [ 16, 34, "TOURIST_PLACE" ],
+          [ 39, 50, "TIMING" ]
+        ]
+      }
+    ],
+    [
+      "Peruvannamuzhi dam, also known as Kuttiady (Id) Dam, is a dam built on the Kuttiady River at Peruvannamuzhi in Chakkittapara Grama Panchayath in Kozhikode district, Kerala.\r",
+      {
+        "entities": [
+          [ 0, 18, "TOURIST_PLACE" ],
+          [ 34, 51, "TOURIST_PLACE" ],
+          [ 93, 107, "LOC" ],
+          [ 111, 124, "LOC" ],
+          [ 145, 154, "GPE" ],
+          [ 165, 171, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Deepanjali Lamp Museum is possibly the only lamp museum of India and located in Puthiyangadi, Kozhikode, the museum houses an extensive collection of lamps dating back to the 19th century including primitive brass lamps, wick lamps, Indian heritage lamps, gas lamps, cart lamps etc.\r",
+      {
+        "entities": [
+          [ 0, 22, "TOURIST_PLACE" ],
+          [ 59, 64, "GPE" ],
+          [ 80, 92, "LOC" ],
+          [ 94, 103, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "At a distance of 38 Kms from Kozhikode, Payyoli Beach is a beautiful stretch of golden sands located in Payyoli village close to NH17 towards Mangalore (before Vadakara).\r",
+      {
+        "entities": [
+          [ 29, 38, "GPE" ],
+          [ 40, 53, "TOURIST_PLACE" ],
+          [ 104, 111, "LOC" ],
+          [ 142, 151, "LOC" ],
+          [ 160, 168, "LOC" ]
+        ]
+      }
+    ],
+    [
+      "Trikkottur Perumalpuram Temple is situated near Payyoli Government High School at Perumalpuram in Kozhikode District.\r",
+      {
+        "entities": [
+          [ 0, 30, "TOURIST_PLACE" ],
+          [ 82, 94, "LOC" ],
+          [ 98, 107, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Kolavipalam beach is located near Vadakara in Kozhikode district of Kerala.  Also known as Turtle beach.",
+      {
+        "entities": [
+          [ 0, 17, "TOURIST_PLACE" ],
+          [ 34, 42, "LOC" ],
+          [ 46, 55, "GPE" ],
+          [ 68, 75, "GPE" ],
+          [ 91, 103, "TOURIST_PLACE" ]
+        ]
+      }
+    ],
+    [
+      "Kolavipalam beach is located near Vadakara in Kozhikode district of Kerala.  Also known as Turtle beach.",
+      {
+        "entities": [
+          [ 0, 17, "TOURIST_PLACE" ],
+          [ 34, 42, "LOC" ],
+          [ 46, 55, "GPE" ],
+          [ 68, 75, "GPE" ],
+          [ 91, 103, "TOURIST_PLACE" ]
+        ]
+      }
+    ],
+    [
+      "Sanatana Dharma College Ground is an A-class cricket stadium built by Kerala Cricket Association located at Sanatana Dharma College in the city of Alappuzha, Kerala.\r",
+      {
+        "entities": [
+          [ 0, 30, "TOURIST_PLACE" ],
+          [ 147, 156, "GPE" ],
+          [ 158, 164, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Adichikkavu Sree Durga Devi Kshetram, also known as the Adichikavu Devi Temple is one of the oldest temple in Pandanad village, Alapuzha. \r",
+      {
+        "entities": [
+          [ 0, 36, "TOURIST_PLACE" ],
+          [ 56, 78, "TOURIST_PLACE" ],
+          [ 110, 118, "LOC" ],
+          [ 128, 136, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Thakazhy Sree Dharma Sastha Temple is six kilometers from Ambalapuzha at Thakazhy in Alappuzha district.\r",
+      {
+        "entities": [
+          [ 0, 34, "TOURIST_PLACE" ],
+          [ 58, 69, "LOC" ],
+          [ 73, 81, "LOC" ],
+          [ 85, 94, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Chakkulathu Kavu is a Hindu temple, dedicated to goddess Durga. The temple is located Near Thiruvalla in Neerattupuram, Thalavady panchayat, Alappuzha District, Kerala, India, and is one of the most popular temples in the state.\r",
+      {
+        "entities": [
+          [ 0, 16, "TOURIST_PLACE" ],
+          [ 91, 101, "LOC" ],
+          [ 105, 118, "LOC" ],
+          [ 120, 129, "LOC" ],
+          [ 141, 150, "GPE" ],
+          [ 161, 167, "GPE" ],
+          [ 169, 174, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Padanilam Parabrahma Temple is situated at Padanilam in Mavelikara taluk of Alappuzha district in Kerala, India.\r",
+      {
+        "entities": [
+          [ 0, 27, "TOURIST_PLACE" ],
+          [ 43, 52, "LOC" ],
+          [ 56, 66, "LOC" ],
+          [ 76, 85, "GPE" ],
+          [ 98, 104, "GPE" ],
+          [ 106, 111, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "The Thiruvanvandoor Mahavishnu Temple is a Hindu temple dedicated to Vishnu and located in Thiruvanvandoor, Alappuzha District, Kerala, South India. \r",
+      {
+        "entities": [
+          [ 4, 37, "TOURIST_PLACE" ],
+          [ 91, 106, "LOC" ],
+          [ 108, 117, "GPE" ],
+          [ 128, 134, "GPE" ],
+          [ 142, 147, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Chengannur Mahadeva Temple is a prominent Hindu temple, dedicated to Shiva and located in the town of Chengannur in the South Indian state of Kerala.\r",
+      {
+        "entities": [
+          [ 0, 26, "TOURIST_PLACE" ],
+          [ 102, 112, "LOC" ],
+          [ 142, 148, "LOC" ]
+        ]
+      }
+    ],
+    [
+      "Pulimukam Temple is a Hindu temple located in Thazhava in the Kollam district of Kerala, India. Bhadra Bhagavathi is the presiding deity of the temple.\r",
+      {
+        "entities": [
+          [ 0, 16, "TOURIST_PLACE" ],
+          [ 46, 54, "LOC" ],
+          [ 62, 68, "GPE" ],
+          [ 81, 87, "GPE" ],
+          [ 89, 95, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Nilakkal Mahadeva Temple is a Hindu temple located in Nilakkal, in the eastern side of Pathanamthitta district in the Indian state of Kerala. \r",
+      {
+        "entities": [
+          [ 0, 24, "TOURIST_PLACE" ],
+          [ 54, 62, "LOC" ],
+          [ 87, 101, "GPE" ],
+          [ 134, 140, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Ambalappuzha Sree Krishna Swamy Temple is an Indian Hindu temple dedicated to Krishna at Ambalappuzha in Alappuzha district of Kerala. \r",
+      {
+        "entities": [
+          [ 0, 38, "TOURIST_PLACE" ],
+          [ 89, 101, "LOC" ],
+          [ 105, 114, "GPE" ],
+          [ 127, 133, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "The Vypin Lighthouse or Cochin Lighthouse is situated at Puthuvype in Kochi, Kerala.\r",
+      {
+        "entities": [
+          [ 4, 20, "TOURIST_PLACE" ],
+          [ 24, 41, "TOURIST_PLACE" ],
+          [ 57, 66, "LOC" ],
+          [ 70, 75, "LOC" ],
+          [ 77, 83, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Puthuvype beach is the nearest beach for Kochi City.\r",
+      {
+        "entities": [
+          [ 0, 15, "TOURIST_PLACE" ],
+          [ 41, 46, "LOC" ]
+        ]
+      }
+    ],
+    [
+      "Thrikkakara Vamanamoorthy Temple is one of the few Hindu temples in India dedicated to Lord Vamana/Vishnu and it is situated in Thrikkakara, Kochi in the state of Kerala, India.\r",
+      {
+        "entities": [
+          [ 0, 32, "TOURIST_PLACE" ],
+          [ 128, 139, "LOC" ],
+          [ 141, 146, "LOC" ],
+          [ 163, 169, "GPE" ],
+          [ 171, 176, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Kuzhupilly beach situated at Vypeen in Kochi in its pristine splendour is a literal paradise for swimmers.\r",
+      {
+        "entities": [
+          [ 0, 16, "TOURIST_PLACE" ],
+          [ 29, 35, "LOC" ],
+          [ 39, 44, "LOC" ]
+        ]
+      }
+    ],
+    [
+      "The Changampuzha Park is a recreational park and a venue for various cultural activities in the city of Kochi, Kerala, India.\r",
+      {
+        "entities": [
+          [ 4, 21, "TOURIST_PLACE" ],
+          [ 104, 109, "LOC" ],
+          [ 111, 117, "GPE" ],
+          [ 119, 124, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "The Changampuzha Park open from 5:30am–9pm.\r",
+      {
+        "entities": [
+          [ 4, 21, "TOURIST_PLACE" ],
+          [ 32, 42, "TIMING" ]
+        ]
+      }
+    ],
+    [
+      "Thanneerchal Park is a park in Kerala located on Refinery Road. \r",
+      {
+        "entities": [
+          [ 0, 17, "TOURIST_PLACE" ],
+          [ 31, 37, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Aspinwall House is a large sea-facing 19th century British heritage building in Fort Kochi.\r",
+      {
+        "entities": [
+          [ 0, 15, "TOURIST_PLACE" ],
+          [ 80, 90, "LOC" ]
+        ]
+      }
+    ],
+    [
+      "Sree Datta Anjaneya Temple is one of the Famous Temples in Aluva, Kochi is situated close to Aluva.\r",
+      {
+        "entities": [
+          [ 0, 26, "TOURIST_PLACE" ],
+          [ 59, 64, "LOC" ],
+          [ 66, 71, "LOC" ],
+          [ 93, 98, "LOC" ]
+        ]
+      }
+    ],
+    [
+      "Pallippuram Fort or is a fort in Pallippuram, Vyppin, Ernakulam district of Kerala, south India.\r",
+      {
+        "entities": [
+          [ 0, 16, "TOURIST_PLACE" ],
+          [ 33, 44, "LOC" ],
+          [ 46, 52, "LOC" ],
+          [ 54, 63, "GPE" ],
+          [ 76, 82, "GPE" ],
+          [ 90, 95, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Chinnar Wildlife Sanctuary is located 18 km north of Marayoor on State Highway 17 in the Marayoor and Kanthalloor panchayats of Devikulam taluk in the Idukki district of Kerala state in India.\r",
+      {
+        "entities": [
+          [ 0, 26, "TOURIST_PLACE" ],
+          [ 53, 61, "LOC" ],
+          [ 89, 97, "LOC" ],
+          [ 102, 113, "LOC" ],
+          [ 128, 137, "LOC" ],
+          [ 151, 157, "GPE" ],
+          [ 170, 176, "GPE" ],
+          [ 186, 191, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "At a distance of 22 km from Munnar, Chokramudi Peak is a mountain peak in Munnar, Kerala. \r",
+      {
+        "entities": [
+          [ 28, 34, "LOC" ],
+          [ 36, 51, "TOURIST_PLACE" ],
+          [ 74, 80, "LOC" ],
+          [ 82, 88, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Mullanthandu is a tourist destination near pooppara in Idukki district of Kerala.\r",
+      {
+        "entities": [
+          [ 0, 12, "TOURIST_PLACE" ],
+          [ 43, 51, "LOC" ],
+          [ 55, 61, "GPE" ],
+          [ 74, 80, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Situated at a height of 4000 feet above the sea level, Kattoothi medu is the part of Senapathy Gramapanchayath of the Idukki district.\r",
+      {
+        "entities": [
+          [ 55, 69, "TOURIST_PLACE" ],
+          [ 85, 94, "LOC" ],
+          [ 118, 124, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Marachuvadu Waterfalls is situated in Idukki district.\r",
+      {
+        "entities": [
+          [ 0, 22, "TOURIST_PLACE" ],
+          [ 38, 44, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "ChunayanMakkal Waterfalls is situated in Munnar Kerala.\r",
+      {
+        "entities": [
+          [ 0, 25, "TOURIST_PLACE" ],
+          [ 41, 47, "LOC" ],
+          [ 48, 54, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Sreenarayanapuram Ripple Water Falls is one of the beautiful place in Idukki district.\r",
+      {
+        "entities": [
+          [ 0, 36, "TOURIST_PLACE" ],
+          [ 70, 76, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "The KDHP Tea Museum is an industry and history museum situated in Munnar, a town in the Idukki district of Kerala in India. \r",
+      {
+        "entities": [
+          [ 4, 19, "TOURIST_PLACE" ],
+          [ 66, 72, "LOC" ],
+          [ 88, 94, "GPE" ],
+          [ 107, 113, "GPE" ],
+          [ 117, 122, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Kannan Devan Hills is a large village located in Devikulam taluk of Idukki district in the Indian state of Kerala.\r",
+      {
+        "entities": [
+          [ 0, 18, "TOURIST_PLACE" ],
+          [ 49, 58, "LOC" ],
+          [ 68, 74, "GPE" ],
+          [ 107, 113, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Meesapulimala is the second highest peak in the western Ghats of Idukki districts lies in the Kerala.\r",
+      {
+        "entities": [
+          [ 0, 13, "TOURIST_PLACE" ],
+          [ 65, 71, "GPE" ],
+          [ 94, 100, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Kaviyoor Mahadeva Temple is an ancient temple located on a small hilltop at Kaviyoor, Pathanamthitta District.\r",
+      {
+        "entities": [
+          [ 0, 24, "TOURIST_PLACE" ],
+          [ 76, 84, "LOC" ],
+          [ 86, 100, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Manjanikkara Dayara is a monastery of the Syriac Orthodox Church. It is situated at the top of the hillock in Manjanikkara, near Omallur, Pathanamthitta District, in South Kerala, India.\r",
+      {
+        "entities": [
+          [ 0, 19, "TOURIST_PLACE" ],
+          [ 110, 122, "LOC" ],
+          [ 129, 136, "LOC" ],
+          [ 138, 152, "GPE" ],
+          [ 172, 178, "GPE" ],
+          [ 180, 185, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Malayalappuzha Devi Temple is a Bhadrakali temple situated at Malayalappuzha in Pathanamthitta in Kerala, India.\r",
+      {
+        "entities": [
+          [ 0, 26, "TOURIST_PLACE" ],
+          [ 62, 76, "LOC" ],
+          [ 80, 94, "GPE" ],
+          [ 98, 104, "GPE" ],
+          [ 106, 111, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Sree Vallabha Temple is located at Thiruvalla in Pathanmthitta district of Kerala. \r",
+      {
+        "entities": [
+          [ 0, 20, "TOURIST_PLACE" ],
+          [ 35, 45, "LOC" ],
+          [ 49, 62, "GPE" ],
+          [ 75, 81, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Niranam Pally, popularly known as Niranam Valiya Pally or St. Mary’s Orthodox Syrian Church, Niranam,Pathanamthitta,Kerala.\r",
+      {
+        "entities": [
+          [ 0, 13, "TOURIST_PLACE" ],
+          [ 34, 54, "TOURIST_PLACE" ],
+          [ 58, 91, "TOURIST_PLACE" ],
+          [ 93, 100, "LOC" ],
+          [ 101, 115, "GPE" ],
+          [ 116, 122, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "St. Peter’s and St. Paul’s Malankara Orthodox Church also known as Parumala Pally is a famous church in Kerala, India. This church is located in Parumala in Thiruvalla Taluk.\r",
+      {
+        "entities": [
+          [ 0, 52, "TOURIST_PLACE" ],
+          [ 67, 81, "TOURIST_PLACE" ],
+          [ 104, 110, "GPE" ],
+          [ 112, 118, "GPE" ],
+          [ 145, 153, "LOC" ],
+          [ 157, 167, "LOC" ]
+        ]
+      }
+    ],
+    [
+      "In Pathanamthitta district and is a pilgrimage center and mausoleum of the Malankara Orthodox Syrian Church.\r",
+      {
+        "entities": [
+          [ 3, 17, "GPE" ],
+          [ 75, 107, "TOURIST_PLACE" ]
+        ]
+      }
+    ],
+    [
+      "The Aranmula Parthasarathy Temple is one of the “Divya Desams”, the 108 temples of Vishnu reverred by the 12 poet saints, or Alwars located near Aranmula, a village in Pathanamthitta District, Kerala, South India.\r",
+      {
+        "entities": [
+          [ 4, 33, "TOURIST_PLACE" ],
+          [ 145, 153, "LOC" ],
+          [ 168, 182, "GPE" ],
+          [ 193, 199, "GPE" ],
+          [ 207, 212, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Adichikkavu Sree Durga Devi Kshetram, also known as the Adichikavu (Adichicavu) Devi Temple is one of the oldest temple in Pandanad village, Alappuzha.\r",
+      {
+        "entities": [
+          [ 0, 36, "TOURIST_PLACE" ],
+          [ 56, 91, "TOURIST_PLACE" ],
+          [ 123, 131, "LOC" ],
+          [ 141, 150, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Parumala Valiya Panayannarkavu Devi Temple is an ancient Hindu temple dedicated to Sri Badrakali and Lord Shiva is situated on the banks of the Pampa river at Parumala of Pathanamthitta District in Kerala state in India.\r",
+      {
+        "entities": [
+          [ 0, 42, "TOURIST_PLACE" ],
+          [ 159, 167, "LOC" ],
+          [ 171, 185, "GPE" ],
+          [ 198, 204, "GPE" ],
+          [ 214, 219, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Madayi Mosque is mosque at Pazhayangadi in Kannur district, northern Kerala.\r",
+      {
+        "entities": [
+          [ 0, 13, "TOURIST_PLACE" ],
+          [ 27, 39, "LOC" ],
+          [ 43, 49, "GPE" ],
+          [ 69, 75, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Pazhayangadi Mosque, Kondotti, is located 18 km east of Manjeri, on the way to Malappuram in Kerala. \r",
+      {
+        "entities": [
+          [ 0, 19, "TOURIST_PLACE" ],
+          [ 21, 29, "LOC" ],
+          [ 56, 63, "LOC" ],
+          [ 79, 89, "GPE" ],
+          [ 93, 99, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Teak Museum is located 4 km from Nilambur, a town in the Malappuram district of Kerala, South India.\r",
+      {
+        "entities": [
+          [ 0, 11, "TOURIST_PLACE" ],
+          [ 33, 41, "LOC" ],
+          [ 57, 67, "GPE" ],
+          [ 80, 86, "GPE" ],
+          [ 94, 99, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Thirumandhamkunnu Temple is a historically significant Hindu temple in Angadipuram, which was the capital of Valluvanad Rajavamsham, in Malappuram district, Kerala state, South India.\r",
+      {
+        "entities": [
+          [ 0, 24, "TOURIST_PLACE" ],
+          [ 71, 82, "LOC" ],
+          [ 136, 146, "GPE" ],
+          [ 157, 163, "GPE" ],
+          [ 177, 182, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Biyyam Kayal is one of the beautiful backwater lake in Malappuram.\r",
+      {
+        "entities": [
+          [ 0, 12, "TOURIST_PLACE" ],
+          [ 55, 65, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Kottakkunnu is a tourist destination in the state of Kerala located at Malappuram.\r",
+      {
+        "entities": [
+          [ 0, 11, "TOURIST_PLACE" ],
+          [ 53, 59, "GPE" ],
+          [ 71, 81, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Padinjarekkara beach or Padinjarekara beach situated near Ponnani in Malappuram district is famous for bird watching, as migratory birds are often spotted here.\r",
+      {
+        "entities": [
+          [ 0, 20, "TOURIST_PLACE" ],
+          [ 24, 43, "TOURIST_PLACE" ],
+          [ 58, 65, "LOC" ],
+          [ 69, 79, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Nedumkayam forest is located 15 km from Nilambur in Malappuram district and is a part of the Nilgiri Biosphere Reserve. \r",
+      {
+        "entities": [
+          [ 0, 17, "TOURIST_PLACE" ],
+          [ 40, 48, "LOC" ],
+          [ 52, 62, "GPE" ],
+          [ 93, 118, "TOURIST_PLACE" ]
+        ]
+      }
+    ],
+    [
+      "Shanthitheeram Park, or the Shanthitheeram Riverside Park to be specific, is known to be one of the most famous Malappuram Tourist Places.\r",
+      {
+        "entities": [
+          [ 0, 19, "TOURIST_PLACE" ],
+          [ 28, 57, "TOURIST_PLACE" ],
+          [ 112, 122, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "The Navamukunda Temple is one of the oldest Vishnu temples in the state of Kerala located near Tirur in Malappuram district.\r",
+      {
+        "entities": [
+          [ 4, 22, "TOURIST_PLACE" ],
+          [ 75, 81, "GPE" ],
+          [ 95, 100, "LOC" ],
+          [ 104, 114, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Thiruvachira Sri Krishna Temple is situated at Thiruvachira, Kozhikode district, Kerala. \r",
+      {
+        "entities": [
+          [ 0, 31, "TOURIST_PLACE" ],
+          [ 47, 59, "LOC" ],
+          [ 61, 70, "GPE" ],
+          [ 81, 87, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "The Pazhassi Dam also called Kulur Barrage is a stone masonry diversion structure in Kannur district, Kerala, India.\r",
+      {
+        "entities": [
+          [ 4, 16, "TOURIST_PLACE" ],
+          [ 29, 42, "TOURIST_PLACE" ],
+          [ 85, 91, "GPE" ],
+          [ 102, 108, "GPE" ],
+          [ 110, 115, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Kallayi is one of the rivers in Kerala, India that originates in Cherikkulathur in the Western Ghats, at an altitude of 45 metres and is 40 km long.\r",
+      {
+        "entities": [
+          [ 0, 7, "TOURIST_PLACE" ],
+          [ 32, 38, "GPE" ],
+          [ 40, 45, "GPE" ],
+          [ 65, 79, "LOC" ]
+        ]
+      }
+    ],
+    [
+      "Sargaalaya is a 20-acre arts and crafts village in Iringal, in Koyilandy, Kerala, India. \r",
+      {
+        "entities": [
+          [ 0, 10, "TOURIST_PLACE" ],
+          [ 51, 58, "LOC" ],
+          [ 63, 72, "LOC" ],
+          [ 74, 80, "GPE" ],
+          [ 82, 87, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Sweat Meat Street, popularly known as SM Street is popular for it's cross roads and it is the busiest shopping spot of Kozhikode. \r",
+      {
+        "entities": [
+          [ 0, 17, "TOURIST_PLACE" ],
+          [ 38, 47, "TOURIST_PLACE" ],
+          [ 119, 128, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Kallai was known as the world's best timber trading center.\r",
+      { "entities": [ [ 0, 6, "TOURIST_PLACE" ] ] }
+    ],
+    [
+      "Kirtads is the unique museum the tools and devices used by the ancient tribal communities of Kerala are preserved safely and it is situated at 7km from Kozhikode.\r",
+      {
+        "entities": [
+          [ 0, 7, "TOURIST_PLACE" ],
+          [ 93, 99, "GPE" ],
+          [ 152, 161, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Ghat section is thick dense forest and is called the 'Cherapunji' of Kerala because of the high availability of the heavy rains. It is about 44 Km from Kozhikode.\r",
+      {
+        "entities": [
+          [ 53, 64, "TOURIST_PLACE" ],
+          [ 69, 75, "GPE" ],
+          [ 152, 161, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Kolamala Eco Tourism is located at the distance of 40 km away from Kozhikode City.\r",
+      {
+        "entities": [
+          [ 0, 20, "TOURIST_PLACE" ],
+          [ 67, 76, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Cheliya is located on the Kozhikode-Quilandi route, the town is famous for the Kathakali Vidhyalayam, a training centre for Kathakali dance.\r",
+      {
+        "entities": [
+          [ 0, 7, "TOURIST_PLACE" ],
+          [ 26, 50, "LOC" ]
+        ]
+      }
+    ],
+    [
+      "The Cheeyappara Waterfall is on the Kochi - Madurai Highway, between Neriamangalam and Adimali. It is in Idukki district, Kerala, India. \r",
+      {
+        "entities": [
+          [ 4, 25, "TOURIST_PLACE" ],
+          [ 36, 59, "LOC" ],
+          [ 69, 82, "LOC" ],
+          [ 87, 95, "LOC" ],
+          [ 105, 111, "GPE" ],
+          [ 122, 128, "GPE" ],
+          [ 130, 135, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Vandanmedu is a village in Idukki district in the Indian state of Kerala. \r",
+      {
+        "entities": [
+          [ 0, 10, "LOC" ],
+          [ 27, 33, "GPE" ],
+          [ 66, 72, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Vandanmedu is the biggest cardamom plantation in India.\r",
+      {
+        "entities": [
+          [ 0, 10, "TOURIST_PLACE" ],
+          [ 49, 54, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Vandanmedu in Kumily is one of the world's largest auction centres for cardamom in Idukki district.\r",
+      {
+        "entities": [
+          [ 0, 10, "TOURIST_PLACE" ],
+          [ 14, 20, "LOC" ],
+          [ 83, 89, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Nadukani, one of the Idukki tourist places, is situated between Thodupuzha and Idukki in the vicinity of Kulamavu.\r",
+      {
+        "entities": [
+          [ 0, 8, "TOURIST_PLACE" ],
+          [ 21, 27, "GPE" ],
+          [ 64, 74, "LOC" ],
+          [ 79, 85, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Nadukani Pavilion, a 2-storey building constructed and managed by the State Electricity Board, atop a hill is encompassed by the vast stretches of hayfields flanked by gargantuan rocks.\r",
+      { "entities": [ [ 0, 17, "TOURIST_PLACE" ] ] }
+    ],
+    [
+      "Nadukani Churam is located on the CNG or Calicut-Nilambur-Gudalur road 20 km north-east of Nilambur town.\r",
+      {
+        "entities": [
+          [ 0, 15, "TOURIST_PLACE" ],
+          [ 41, 104, "LOC" ]
+        ]
+      }
+    ],
+    [
+      "Gavi is a village in Pathanamthitta district, Kerala, India.\r",
+      {
+        "entities": [
+          [ 0, 4, "TOURIST_PLACE" ],
+          [ 21, 35, "GPE" ],
+          [ 46, 52, "GPE" ],
+          [ 54, 59, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Gavi, an eco-tourist spot introduces the visitors to a beguiling scenic beauty that is untouched by the unscrupulous reach of modern humankind. \r",
+      { "entities": [ [ 0, 4, "TOURIST_PLACE" ] ] }
+    ],
+    [
+      "Peeru hills, located 4 km from Kuttikanam in Idukki district, is an idyllic hill station for picnickers and is high on the list for trekkers.\r",
+      {
+        "entities": [
+          [ 0, 11, "TOURIST_PLACE" ],
+          [ 31, 41, "LOC" ],
+          [ 45, 51, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Oorakam Mala is a mount near Malappuram, Kerala, India.\r",
+      {
+        "entities": [
+          [ 0, 12, "TOURIST_PLACE" ],
+          [ 29, 39, "GPE" ],
+          [ 41, 47, "GPE" ],
+          [ 49, 54, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Pecheri Thazham Kulam is a pond in Malappuram District.\r",
+      {
+        "entities": [
+          [ 0, 21, "TOURIST_PLACE" ],
+          [ 35, 45, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Thazhethodi Kulam is a pond in Malappuram District. \r",
+      {
+        "entities": [
+          [ 0, 17, "TOURIST_PLACE" ],
+          [ 31, 41, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Nechikkad Panchayath Kulam is a pond in Malappuram District. \r",
+      {
+        "entities": [
+          [ 0, 26, "TOURIST_PLACE" ],
+          [ 40, 50, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Kalpakanoor is one of the top Tourist Attraction in Malappuram. \r",
+      {
+        "entities": [
+          [ 0, 11, "TOURIST_PLACE" ],
+          [ 52, 62, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Vettuthod Waterfalls in Kadampuzha is situated in Malappuram.\r",
+      {
+        "entities": [
+          [ 0, 20, "TOURIST_PLACE" ],
+          [ 24, 34, "LOC" ],
+          [ 50, 60, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Netravali Waterfall in Tirur, Malappuram is one of the leading businesses in the Tourist Attraction.\r",
+      {
+        "entities": [
+          [ 0, 19, "TOURIST_PLACE" ],
+          [ 23, 28, "LOC" ],
+          [ 30, 40, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Nilapadu Thara, an important Mamangam monument situated near Thirunavaya- Kudakkal in Malappuram district, Kerala.\r",
+      {
+        "entities": [
+          [ 0, 14, "TOURIST_PLACE" ],
+          [ 61, 82, "LOC" ],
+          [ 86, 96, "GPE" ],
+          [ 107, 113, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "The Mankada Tourism Village is one of the finest natural tourist spots visited by me till date. \r",
+      { "entities": [ [ 4, 27, "TOURIST_PLACE" ] ] }
+    ],
+    [
+      "Myladippara is a hill top point near Kalpetta in Wayanad district of kerala state in India. \r",
+      {
+        "entities": [
+          [ 0, 11, "TOURIST_PLACE" ],
+          [ 37, 45, "LOC" ],
+          [ 49, 56, "GPE" ],
+          [ 69, 75, "GPE" ],
+          [ 85, 90, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "The timings for Harikanyaka Temple are 5.30 AM to 9.30 AM & 5.30 PM to 7.30 PM.\r",
+      {
+        "entities": [
+          [ 16, 34, "GPE" ],
+          [ 39, 57, "TIMING" ],
+          [ 60, 78, "TIMING" ]
+        ]
+      }
+    ],
+    [
+      "Charpa Falls is a waterfall located in Athirappilly panchayath in Thrissur district of Kerala. \r",
+      {
+        "entities": [
+          [ 0, 12, "TOURIST_PLACE" ],
+          [ 39, 51, "LOC" ],
+          [ 66, 74, "GPE" ],
+          [ 87, 93, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "The Thumboormuzhi Dam  lie in the Chalakudy river surrounded by forest and is one of the most sought after tourist spot in Thrissur district.\r",
+      {
+        "entities": [
+          [ 4, 21, "TOURIST_PLACE" ],
+          [ 123, 131, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "The Thumboormuzhi Garden lie in the Chalakudy river surrounded by forest and is one of the most sought after tourist spot in Thrissur district.\r",
+      {
+        "entities": [
+          [ 4, 24, "TOURIST_PLACE" ],
+          [ 125, 133, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Thumboormuzhi butterfly park located near to it are one among the most famous tourist spot in Thrissur.\r",
+      {
+        "entities": [
+          [ 0, 28, "TOURIST_PLACE" ],
+          [ 94, 102, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Kauthuka Park, a beautiful garden noted for its natural beauty, is situated on the way to Athirappally Waterfalls at Chalakkudy in Thrissur district.\r",
+      {
+        "entities": [
+          [ 0, 13, "TOURIST_PLACE" ],
+          [ 90, 113, "TOURIST_PLACE" ],
+          [ 117, 127, "LOC" ],
+          [ 131, 139, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Thumboormuzhi hanging bridge is a bridge in the ezhattumukham nature village.\r",
+      {
+        "entities": [
+          [ 0, 28, "TOURIST_PLACE" ],
+          [ 48, 61, "LOC" ]
+        ]
+      }
+    ],
+    [
+      "Dream World Water Park is a water park located in Athirappilly Road, Thrissur, Chalakudy, Kerala.\r",
+      {
+        "entities": [
+          [ 0, 22, "TOURIST_PLACE" ],
+          [ 50, 67, "LOC" ],
+          [ 69, 77, "GPE" ],
+          [ 79, 88, "LOC" ],
+          [ 90, 96, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Ezhattumugham Dam is one of the top Tourist Attraction  in Ayyampuzha, Thrissur.\r",
+      {
+        "entities": [
+          [ 0, 17, "TOURIST_PLACE" ],
+          [ 59, 69, "LOC" ],
+          [ 71, 79, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Korattymuthy Shrine Grotto is located in Thrissur, Kerala.\r",
+      {
+        "entities": [
+          [ 0, 26, "TOURIST_PLACE" ],
+          [ 41, 49, "GPE" ],
+          [ 51, 57, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Hosdurg Fort is a fort in Kanhangad which is part of Kasaragod district in Kerala state.\r",
+      {
+        "entities": [
+          [ 0, 12, "TOURIST_PLACE" ],
+          [ 26, 35, "LOC" ],
+          [ 53, 62, "GPE" ],
+          [ 75, 81, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Manjeshwar is a beautiful coastal town famous for Cashew Nuts and as a Pilgrimage. It is located in the district of Kasaragod, on the northern side of God's Own Country, Kerala, India. \r",
+      {
+        "entities": [
+          [ 0, 10, "TOURIST_PLACE" ],
+          [ 116, 125, "GPE" ],
+          [ 170, 176, "GPE" ],
+          [ 178, 183, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Chandragiri Fort is a fort built in the 17th century, situated in Kasaragod District of Kerala, South India. This large squarish fort is 150 feet above sea level and occupies an area of about seven acres adjacent to Chandragiri river. \r",
+      {
+        "entities": [
+          [ 0, 16, "TOURIST_PLACE" ],
+          [ 66, 75, "GPE" ],
+          [ 88, 94, "GPE" ],
+          [ 102, 108, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Muhyaddin Juma Masjid is a masjid (mosque) located at Nellikunnu, Kasaragod district. \r",
+      {
+        "entities": [
+          [ 0, 21, "TOURIST_PLACE" ],
+          [ 54, 64, "LOC" ],
+          [ 66, 75, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "A beautiful rain forest near Konnakad, the Kottancheri Hills is a part of the Western Ghats in Kasaragod district and an extension of Ranipuram wildlife sanctuary. The place is 30kms north-east of Kanhangad. \r",
+      {
+        "entities": [
+          [ 29, 37, "LOC" ],
+          [ 43, 60, "TOURIST_PLACE" ],
+          [ 95, 104, "GPE" ],
+          [ 134, 163, "TOURIST_PLACE" ],
+          [ 197, 206, "LOC" ]
+        ]
+      }
+    ],
+    [
+      "Veeramala Hills is a small mountain in the Kasargode district of Kerala state, south India. It is situated at Cheruvathur.\r",
+      {
+        "entities": [
+          [ 0, 15, "TOURIST_PLACE" ],
+          [ 43, 52, "GPE" ],
+          [ 65, 71, "GPE" ],
+          [ 85, 91, "GPE" ],
+          [ 110, 121, "LOC" ]
+        ]
+      }
+    ],
+    [
+      "Valiyaparamba is a coastal island in Hosdurg taluk, Kasaragod district, Kerala state, India. \r",
+      {
+        "entities": [
+          [ 0, 13, "TOURIST_PLACE" ],
+          [ 37, 44, "LOC" ],
+          [ 52, 61, "GPE" ],
+          [ 72, 78, "GPE" ],
+          [ 86, 91, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Located close to the popular Bekal Fort area, Valiyaparamba in Kasaragod district is among the most beautiful backwater destinations in northern Kerala.\r",
+      {
+        "entities": [
+          [ 29, 39, "TOURIST_PLACE" ],
+          [ 46, 59, "TOURIST_PLACE" ],
+          [ 63, 72, "GPE" ],
+          [ 145, 151, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Ananthapadmanabhaswamy Temple or Ananthapura Lake Temple is a Hindu temple built in the middle of a lake in the little village of Ananthapura, around 6 km from the town of Kumbla in Manjeshwaram Taluk of Kasaragod District of Kerala, South India.\r",
+      {
+        "entities": [
+          [ 0, 29, "TOURIST_PLACE" ],
+          [ 33, 56, "TOURIST_PLACE" ],
+          [ 130, 141, "LOC" ],
+          [ 172, 178, "LOC" ],
+          [ 182, 194, "LOC" ],
+          [ 204, 213, "GPE" ],
+          [ 226, 232, "GPE" ],
+          [ 240, 245, "GPE" ]
+        ]
+      }
+    ],
+    [
+      "Ajanur is a grama panchayat and also a village of the same name in Kasargode district, Kerala state, India. \r",
+      {
+        "entities": [
+          [ 0, 6, "TOURIST_PLACE" ],
+          [ 67, 76, "GPE" ],
+          [ 87, 93, "GPE" ],
+          [ 101, 106, "GPE" ]
+        ]
+      }
+    ]
+  ]}
